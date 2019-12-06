@@ -1,0 +1,18 @@
+Hi! Bret
+
+Step: 1
+
+Replace the code which is highlighted in https://schrader.co/ 
+
+Step: 2
+Replace style.css which is in css folder
+
+Step: 3
+Replace jquery.fullpage.min.js , jquery.min.js , script.js and add the new.js.
+
+All files mentioned in Step: 3 must be in js folder
+
+THEN SEE THE CHAGES IN YOUR WEBSITE I HOPE YOU WILL LIKE THE SCROLL icon ANIMATION EFFECT i tried my best ....
+
+WHEN YOU DID ALL CHANGES THEN INFORM ME SO THAT I SEND YOU AN OFFER :)
+Thanks!
